@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+![_config.yml]({{ site.baseurl }}/images/propic.jpg)
 # Name of your site (displayed in the header)
 name: CS 373 Spring 2016:Tarequl Alam
 
