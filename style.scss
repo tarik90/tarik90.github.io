@@ -164,10 +164,9 @@ img {
 }
 
 .site-avatar {
-  text-align: center;
-    margin: 0 auto; 
-    width: 1.75in;
-    height: 2in;
+  width: 200px;
+  height: 300px;
+  margin-right: 15px;
 
   @include mobile {
     float: none;
